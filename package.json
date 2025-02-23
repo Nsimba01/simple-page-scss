@@ -1,0 +1,7 @@
+{
+  "name": "Coding-Challange-scss",
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "sass": "^1.85.0"
+  }
+}
